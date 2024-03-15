@@ -1,10 +1,10 @@
 # ZeroKnwoledge Sample
 
-This project was generated with Tea.xyz
+This project was generated with https://app.tea.xyz
 
 ## Development server
 
-Run test
+Run contributor
 
 ## Code scaffolding
 
