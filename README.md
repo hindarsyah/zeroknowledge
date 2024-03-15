@@ -1,12 +1,14 @@
 # AngularJestSample
 
-This project was generated with 
+This project was generated with Tea.xyz
 
 ## Development server
 
+Run test
 
 ## Code scaffolding
 
+Run test
 
 
 ## Build
