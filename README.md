@@ -1,6 +1,26 @@
-Development server
-Code scaffolding
-Build
-Running unit tests
-Running end-to-end tests
-Further help
+# AngularJestSample
+
+This project was generated with 
+
+## Development server
+
+
+## Code scaffolding
+
+
+
+## Build
+
+Run test
+
+## Running unit tests
+
+Run test 1
+
+## Running end-to-end tests
+
+Run test 2
+
+## Further help
+
+Run test 2
