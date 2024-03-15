@@ -1,4 +1,4 @@
-# AngularJestSample
+# ZeroKnwoledge Sample
 
 This project was generated with Tea.xyz
 
